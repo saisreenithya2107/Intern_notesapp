@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1016787045385",
+    "project_id": "imbuedesk-asn",
+    "storage_bucket": "imbuedesk-asn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016787045385:android:ccecaf53d4088a76f37cd8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_imbuedesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016787045385-6j33s4845bih8v8lgat28d7ar1d7o470.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxpb4rAFR3-vlAKR34I0uF6zCNaPPtQJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016787045385-6j33s4845bih8v8lgat28d7ar1d7o470.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016787045385:android:192db02e9daf6888f37cd8",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016787045385-6j33s4845bih8v8lgat28d7ar1d7o470.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxpb4rAFR3-vlAKR34I0uF6zCNaPPtQJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016787045385-6j33s4845bih8v8lgat28d7ar1d7o470.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
